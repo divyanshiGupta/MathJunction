@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Math Junction</string>
+    <string name="b1">Multiplication</string>
+    <string name="b2">Division</string>
+    <string name="b3">Addition</string>
+    <string name="b4">Subtraction</string>
+    <string name="b5">Random</string>
+    <string name="equals">=</string>
+    <string name="score">Score</string>
+    <string name="level">Level</string>
+    <string name="mul">X</string>
+    <string name="lifes_left">lifes left</string>
+    <string name="div">/</string>
+    <string name="add">+</string>
+    <string name="sub">-</string>
+    <string name="ok">OK</string>
+    <string name="high_score">Highest score</string>
+</resources>
